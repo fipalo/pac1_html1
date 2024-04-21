@@ -124,4 +124,10 @@ iframe {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.container_2 {
+  text-align: center;
+  color: #fafafa;
+  position: relative;
+}
 /*# sourceMappingURL=index.1303bb05.css.map */

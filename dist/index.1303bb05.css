@@ -1,24 +1,127 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  background-color: #fffff8;
+}
+
 h1 {
   color: #252525;
   text-align: center;
+  margin-top: 2%;
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
 }
 
-.dropdown {
-  display: inline-block;
+h1 a:hover {
+  color: #0f47c0;
+  text-decoration: none;
+}
+
+h1 a:visited, h1 a:link, h1 a:active {
+  color: #252525;
+  text-decoration: none;
+}
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.menú {
+  color: #252525;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+.menú a {
+  padding: 5%;
+}
+
+.menú a:hover {
+  color: #0f47c0;
+  text-decoration: none;
+}
+
+.menú a:visited, .menú a:link, .menú a:active {
+  color: #252525;
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+  margin-bottom: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .8rem;
+}
+
+.footer p {
+  padding-top: 1%;
+}
+
+.descripcio {
+  text-align: center;
+  margin: 20%;
+}
+
+.spotify {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+iframe {
+  padding: 1%;
+}
+
+.container {
+  text-align: center;
+  color: #7a4508;
   position: relative;
 }
 
-.dropdown-content {
-  z-index: 1;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  display: none;
+.texto-superpuesto {
   position: absolute;
-  box-shadow: 0 8px 16px #0003;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 /*# sourceMappingURL=index.1303bb05.css.map */

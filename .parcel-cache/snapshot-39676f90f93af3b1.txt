@@ -1,19 +1,14 @@
-10929
-21C:\UOC\pac1_html1\img133581918489254184 1
-47C:\UOC\pac1_html1\node_modules\is-negative-zero133581591081332774 1
-111C:\UOC\pac1_html1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font-weight.js133581587288943011 0
-65C:\UOC\pac1_html1\node_modules\@swc\helpers\_\_is_native_function133581587291492712 1
-53C:\UOC\pac1_html1\node_modules\import-fresh\readme.md133581587286903849 0
-53C:\UOC\pac1_html1\node_modules\semver\ranges\valid.js133581587289383255 0
-51C:\UOC\pac1_html1\node_modules\object.assign\.nycrc133581591080365018 0
-62C:\UOC\pac1_html1\node_modules\caniuse-lite\data\regions\MU.js133581587292801767 0
-72C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\geolocation.js133581587291991601 0
-35C:\UOC\pac1_html1\node_modules\asap133581592333192150 1
-73C:\UOC\pac1_html1\node_modules\wrap-ansi\node_modules\ansi-styles\license133581591079415473 0
-54C:\UOC\pac1_html1\node_modules\unbox-primitive\LICENSE133581591080513152 0
-61C:\UOC\pac1_html1\node_modules\nth-check\lib\esm\package.json133581587287539960 0
-76C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\element-closest.js133581587291690748 0
-33C:\UOC\pac1_html1\dist\index.html133581922779684934 0
+10930
+46C:\UOC\pac1_html1\node_modules\npm-run-all\bin133581591081473920 1
+81C:\UOC\pac1_html1\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133581587291183357 1
+52C:\UOC\pac1_html1\node_modules\cosmiconfig\README.md133581587288589196 0
+45C:\UOC\pac1_html1\node_modules\balanced-match133581591080601015 1
+22C:\UOC\pac1_html1\dist133610403081815996 1
+64C:\UOC\pac1_html1\node_modules\string.prototype.padend\README.md133581591081500235 0
+53C:\UOC\pac1_html1\node_modules\source-map\lib\util.js133581587287992935 0
+35C:\UOC\pac1_html1\dist\qui_som.html133610403081806061 0
+54C:\UOC\pac1_html1\node_modules\es-abstract\2022\abs.js133581591081691732 0
+74C:\UOC\pac1_html1\node_modules\es-abstract\2020\InternalizeJSONProperty.js133581591084531802 0
 60C:\UOC\pac1_html1\node_modules\rimraf\dist\esm\retry-busy.js133581591081657571 0
 56C:\UOC\pac1_html1\node_modules\memorystream\package.json133581591079415473 0
 57C:\UOC\pac1_html1\node_modules\picocolors\picocolors.d.ts133581587287232296 0
@@ -58,7 +53,7 @@
 56C:\UOC\pac1_html1\node_modules\set-function-name\LICENSE133581591080129842 0
 63C:\UOC\pac1_html1\node_modules\es-abstract\2021\HourFromTime.js133581591084289084 0
 67C:\UOC\pac1_html1\node_modules\es-abstract\2023\NormalCompletion.js133581591085889882 0
-31C:\UOC\pac1_html1\concerts.html133581932328851706 0
+31C:\UOC\pac1_html1\concerts.html133581937391973005 0
 50C:\UOC\pac1_html1\node_modules\is-symbol\README.md133581591081239951 0
 66C:\UOC\pac1_html1\node_modules\typescript\lib\lib.es2016.full.d.ts133581591956289773 0
 56C:\UOC\pac1_html1\node_modules\@swc\helpers\esm\index.js133581587291090888 0
@@ -84,11 +79,6 @@
 59C:\UOC\pac1_html1\node_modules\globalthis\implementation.js133581591080779228 0
 55C:\UOC\pac1_html1\node_modules\@swc\helpers\_\_identity133581587291492712 1
 29C:\UOC\pac1_html1\.posthtmlrc133581645883544582 0
-46C:\UOC\pac1_html1\node_modules\npm-run-all\bin133581591081473920 1
-81C:\UOC\pac1_html1\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133581587291183357 1
-52C:\UOC\pac1_html1\node_modules\cosmiconfig\README.md133581587288589196 0
-45C:\UOC\pac1_html1\node_modules\balanced-match133581591080601015 1
-22C:\UOC\pac1_html1\dist133581922779684934 1
 56C:\UOC\pac1_html1\node_modules\@parcel\packager-html\src133581587286801489 1
 54C:\UOC\pac1_html1\node_modules\token-stream\HISTORY.md133581592332189312 0
 63C:\UOC\pac1_html1\node_modules\es-abstract\2017\IteratorNext.js133581591085331254 0
@@ -106,6 +96,8 @@
 71C:\UOC\pac1_html1\node_modules\es-abstract\2024\UTF16EncodeCodePoint.js133581591088389749 0
 92C:\UOC\pac1_html1\node_modules\csso\node_modules\css-tree\lib\syntax\node\DeclarationList.js133581587290979737 0
 47C:\UOC\pac1_html1\node_modules\character-parser133581592332279514 1
+21C:\UOC\pac1_html1\img133581937182335627 1
+47C:\UOC\pac1_html1\node_modules\is-negative-zero133581591081332774 1
 69C:\UOC\pac1_html1\node_modules\css-tree\lib\syntax\node\Combinator.js133581587290843309 0
 58C:\UOC\pac1_html1\node_modules\@parcel\events\src\index.js133581587287588080 0
 82C:\UOC\pac1_html1\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133581587288656312 0
@@ -156,7 +148,7 @@
 63C:\UOC\pac1_html1\node_modules\es-abstract\2024\IteratorStep.js133581591085381868 0
 58C:\UOC\pac1_html1\node_modules\balanced-match\package.json133581591080181051 0
 54C:\UOC\pac1_html1\node_modules\typescript\bin\tsserver133581591941015440 0
-30C:\UOC\pac1_html1\qui_som.html133581932686325271 0
+30C:\UOC\pac1_html1\qui_som.html133594028391374885 0
 87C:\UOC\pac1_html1\node_modules\csso\node_modules\css-tree\lib\tokenizer\adopt-buffer.js133581587290661841 0
 55C:\UOC\pac1_html1\node_modules\object-inspect\.eslintrc133581591079370954 0
 52C:\UOC\pac1_html1\node_modules\@parcel\codeframe\lib133581587288882968 1
@@ -275,6 +267,17 @@
 49C:\UOC\pac1_html1\node_modules\term-size\index.js133581587287441119 0
 58C:\UOC\pac1_html1\node_modules\arraybuffer.prototype.slice133581591081500235 1
 64C:\UOC\pac1_html1\node_modules\update-browserslist-db\index.d.ts133581587287479487 0
+111C:\UOC\pac1_html1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font-weight.js133581587288943011 0
+65C:\UOC\pac1_html1\node_modules\@swc\helpers\_\_is_native_function133581587291492712 1
+53C:\UOC\pac1_html1\node_modules\import-fresh\readme.md133581587286903849 0
+53C:\UOC\pac1_html1\node_modules\semver\ranges\valid.js133581587289383255 0
+51C:\UOC\pac1_html1\node_modules\object.assign\.nycrc133581591080365018 0
+62C:\UOC\pac1_html1\node_modules\caniuse-lite\data\regions\MU.js133581587292801767 0
+72C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\geolocation.js133581587291991601 0
+35C:\UOC\pac1_html1\node_modules\asap133581592333192150 1
+73C:\UOC\pac1_html1\node_modules\wrap-ansi\node_modules\ansi-styles\license133581591079415473 0
+54C:\UOC\pac1_html1\node_modules\unbox-primitive\LICENSE133581591080513152 0
+61C:\UOC\pac1_html1\node_modules\nth-check\lib\esm\package.json133581587287539960 0
 54C:\UOC\pac1_html1\node_modules\js-yaml\lib\type\set.js133581587288822810 0
 67C:\UOC\pac1_html1\node_modules\typescript\lib\lib.es2019.array.d.ts133581591956372922 0
 73C:\UOC\pac1_html1\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133581587290646653 0
@@ -1659,7 +1662,6 @@
 48C:\UOC\pac1_html1\node_modules\tslib\SECURITY.md133581587287681745 0
 66C:\UOC\pac1_html1\node_modules\available-typed-arrays\package.json133581591080824323 0
 50C:\UOC\pac1_html1\node_modules\@swc\types\index.ts133581587287752145 0
-51C:\UOC\pac1_html1\img\Da Souza x Sergi Nunez-18.jpg133581921150020099 0
 65C:\UOC\pac1_html1\node_modules\rimraf\dist\esm\rimraf-manual.d.ts133581591082370573 0
 66C:\UOC\pac1_html1\node_modules\which-boxed-primitive\.editorconfig133581591079355910 0
 92C:\UOC\pac1_html1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaQueryList.cjs133581587289991323 0
@@ -1827,7 +1829,7 @@
 74C:\UOC\pac1_html1\node_modules\update-browserslist-db\check-npm-version.js133581587286489617 0
 66C:\UOC\pac1_html1\node_modules\update-browserslist-db\package.json133581587287232296 0
 60C:\UOC\pac1_html1\node_modules\string.prototype.trim\LICENSE133581591080523150 0
-36C:\UOC\pac1_html1\dist\concerts.html133581921830644850 0
+36C:\UOC\pac1_html1\dist\concerts.html133581937393036762 0
 77C:\UOC\pac1_html1\node_modules\string.prototype.padend\test\implementation.js133581591081062393 0
 96C:\UOC\pac1_html1\node_modules\csso\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133581587290773664 0
 47C:\UOC\pac1_html1\node_modules\promise\index.js133581592332829428 0
@@ -2292,7 +2294,7 @@
 53C:\UOC\pac1_html1\node_modules\is-symbol\package.json133581591081012401 0
 60C:\UOC\pac1_html1\node_modules\es-abstract\2017\IsPromise.js133581591085002872 0
 65C:\UOC\pac1_html1\node_modules\array-buffer-byte-length\README.md133581591081174820 0
-37C:\UOC\pac1_html1\dist\escoltans.html133581917672724770 0
+37C:\UOC\pac1_html1\dist\escoltans.html133581937393468628 0
 65C:\UOC\pac1_html1\node_modules\es-abstract\2023\CharacterRange.js133581591082783203 0
 61C:\UOC\pac1_html1\node_modules\type-fest\ts41\camel-case.d.ts133581587287599538 0
 59C:\UOC\pac1_html1\node_modules\es-set-tostringtag\.eslintrc133581591079380999 0
@@ -2809,8 +2811,6 @@
 62C:\UOC\pac1_html1\node_modules\string.prototype.padend\LICENSE133581591080689043 0
 94C:\UOC\pac1_html1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match.js133581587290111669 0
 66C:\UOC\pac1_html1\node_modules\string.prototype.padend\polyfill.js133581591081300134 0
-64C:\UOC\pac1_html1\node_modules\string.prototype.padend\README.md133581591081500235 0
-53C:\UOC\pac1_html1\node_modules\source-map\lib\util.js133581587287992935 0
 50C:\UOC\pac1_html1\node_modules\parse-json\index.js133581587286489617 0
 73C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\rel-noopener.js133581587293423096 0
 46C:\UOC\pac1_html1\node_modules\promise\core.js133581592332829428 0
@@ -4713,6 +4713,7 @@
 43C:\UOC\pac1_html1\node_modules\lmdb\LICENSE133581587288083075 0
 49C:\UOC\pac1_html1\node_modules\lmdb\node-index.js133581587290681995 0
 48C:\UOC\pac1_html1\node_modules\lmdb\node_modules133581587278610033 1
+57C:\UOC\pac1_html1\dist\DaSouzaxSergiNunez-18.21df85be.jpg133581937393087112 0
 48C:\UOC\pac1_html1\node_modules\lmdb\package.json133581587290783757 0
 68C:\UOC\pac1_html1\node_modules\define-properties\.github\FUNDING.yml133581591081179916 0
 48C:\UOC\pac1_html1\node_modules\lightningcss\node133581587288392220 1
@@ -4812,7 +4813,7 @@
 56C:\UOC\pac1_html1\node_modules\browserslist\package.json133581587287574996 0
 75C:\UOC\pac1_html1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133581587287272290 1
 64C:\UOC\pac1_html1\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133581587289196654 0
-44C:\UOC\pac1_html1\dist\index.5baa4167.js.map133581895094745129 0
+44C:\UOC\pac1_html1\dist\index.5baa4167.js.map133581937393350913 0
 64C:\UOC\pac1_html1\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133581587290496554 0
 71C:\UOC\pac1_html1\node_modules\@swc\helpers\_\_class_private_method_get133581587291343682 1
 65C:\UOC\pac1_html1\node_modules\lmdb\dependencies\lz4\lib\Makefile133581587288343322 0
@@ -6480,9 +6481,6 @@
 68C:\UOC\pac1_html1\node_modules\es-abstract\2020\DetachArrayBuffer.js133581591083557031 0
 66C:\UOC\pac1_html1\node_modules\es-abstract\2023\BigInt\multiply.js133581591085833951 0
 68C:\UOC\pac1_html1\node_modules\es-abstract\2023\BigInt\unaryMinus.js133581591088326820 0
-35C:\UOC\pac1_html1\dist\qui_som.html133581917237590680 0
-54C:\UOC\pac1_html1\node_modules\es-abstract\2022\abs.js133581591081691732 0
-74C:\UOC\pac1_html1\node_modules\es-abstract\2020\InternalizeJSONProperty.js133581591084531802 0
 75C:\UOC\pac1_html1\node_modules\@babel\types\lib\validators\isBlockScoped.js133581592333168587 0
 73C:\UOC\pac1_html1\node_modules\es-abstract\2022\AddEntriesFromIterable.js133581591082021945 0
 69C:\UOC\pac1_html1\node_modules\es-abstract\2022\ArraySpeciesCreate.js133581591082325351 0
@@ -9022,11 +9020,12 @@
 69C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\download.js133581587291690748 0
 65C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\ping.js133581587293263336 0
 70C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\dragndrop.js133581587291690748 0
+76C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\element-closest.js133581587291690748 0
 81C:\UOC\pac1_html1\node_modules\@parcel\runtime-js\lib\helpers\worker\js-loader.js133581587288761574 0
 79C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\element-from-point.js133581587291690748 0
 50C:\UOC\pac1_html1\node_modules\@swc\types\index.js133581587286489617 0
 83C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\element-scroll-methods.js133581587291690748 0
-45C:\UOC\pac1_html1\dist\index.1303bb05.css.map133581921891351235 0
+45C:\UOC\pac1_html1\dist\index.1303bb05.css.map133581937392956717 0
 64C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\eot.js133581587291690748 0
 71C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\webworkers.js133581587294123492 0
 70C:\UOC\pac1_html1\node_modules\caniuse-lite\data\features\es6-class.js133581587291770832 0
@@ -9782,7 +9781,7 @@
 92C:\UOC\pac1_html1\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133581587286933849 0
 81C:\UOC\pac1_html1\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers133581587286588169 1
 104C:\UOC\pac1_html1\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133581587287222289 0
-40C:\UOC\pac1_html1\dist\index.5baa4167.js133581895094735023 0
+40C:\UOC\pac1_html1\dist\index.5baa4167.js133581937393350913 0
 58C:\UOC\pac1_html1\node_modules\@parcel\transformer-raw\lib133581587286489617 1
 62C:\UOC\pac1_html1\node_modules\@parcel\transformer-raw\LICENSE133581587285751788 0
 76C:\UOC\pac1_html1\node_modules\@parcel\transformer-raw\src\RawTransformer.js133581587286833307 0
@@ -10918,13 +10917,15 @@
 45C:\UOC\pac1_html1\node_modules\.bin\which.cmd133581591088789730 0
 45C:\UOC\pac1_html1\node_modules\.bin\which.ps1133581591088789730 0
 60C:\UOC\pac1_html1\img\2j7ntpl6mzpz7cb57exh_1621761472850.jpg133581895024117424 0
-70C:\UOC\pac1_html1\dist\2j7ntpl6mzpz7cb57exh_1621761472850.0fbffc75.jpg133581898042751587 0
+47C:\UOC\pac1_html1\img\DaSouzaxSergiNunez-18.jpg133581921150020099 0
+70C:\UOC\pac1_html1\dist\2j7ntpl6mzpz7cb57exh_1621761472850.0fbffc75.jpg133581937392789988 0
 47C:\UOC\pac1_html1\dist\concerts.1e490f47.js.map133581845806203213 0
 55C:\UOC\pac1_html1\dist\concerts.1e490f47.js.map.30132.t133581845729870364 0
-86C:\UOC\pac1_html1\dist\fons-heijnsbroek-abstract-art-GJfvDxr-TFA-unsplash.4d85462e.jpg133581895095056162 0
-41C:\UOC\pac1_html1\dist\index.1303bb05.css133581921891343450 0
+86C:\UOC\pac1_html1\dist\fons-heijnsbroek-abstract-art-GJfvDxr-TFA-unsplash.4d85462e.jpg133581937393154875 0
+41C:\UOC\pac1_html1\dist\index.1303bb05.css133581937392945252 0
 45C:\UOC\pac1_html1\dist\index.41e004e0.css.map133581646079347450 0
 40C:\UOC\pac1_html1\dist\index.4d76c3ea.js133581646079336067 0
 44C:\UOC\pac1_html1\dist\index.4d76c3ea.js.map133581646079347450 0
+33C:\UOC\pac1_html1\dist\index.html133581922779684934 0
 45C:\UOC\pac1_html1\dist\pac1_html1.3464ddca.js133581588304982605 0
 49C:\UOC\pac1_html1\dist\pac1_html1.3464ddca.js.map133581588304992607 0
